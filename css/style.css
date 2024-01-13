@@ -1,0 +1,14 @@
+a {
+  color: white;
+}
+
+html {
+  background-color: black;
+  background-image: url('../images/image001.jpg');
+  background-position: center;
+  color: white;
+  display: grid;
+  font-family: 'Noto Sans JP', sans-serif;
+  height: 100vh;
+  place-items: center start;
+}

@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @suzukitakafumifcc
-- 👀 I’m interested in Nuxt.js
-- 🌱 I’m currently learning Issues
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Suzuki Takafumiです。
+- 👀 プログラマーです。
+- 🌱 ウェブ開発を中心に行っています。
 
 <!---
 suzukitakafumifcc/suzukitakafumifcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
