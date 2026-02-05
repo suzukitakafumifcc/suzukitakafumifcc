@@ -7,25 +7,6 @@ suzukitakafumifcc/suzukitakafumifcc is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-## GitHub運用基本方針
+## スキル
 
-### 設定
-
-- Code security and analysis
-  - Dependabot
-    - Dependabot alerts > Enable
-    - Dependabot security update > Enable
-
-## ブランチ運用
-
-GitHubフローに従いたい
-
-<https://docs.github.com/ja/get-started/using-github/github-flow>
-
-## タスク管理
-
-Isuueやプロジェクトを活用する
-
-## ブランチ保護
-
-main
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel)
